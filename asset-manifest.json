@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bevopunk-minter-prototype/static/css/main.6200aa73.chunk.css",
-    "main.js": "/bevopunk-minter-prototype/static/js/main.d70dd158.chunk.js",
-    "main.js.map": "/bevopunk-minter-prototype/static/js/main.d70dd158.chunk.js.map",
+    "main.js": "/bevopunk-minter-prototype/static/js/main.a42c3e8e.chunk.js",
+    "main.js.map": "/bevopunk-minter-prototype/static/js/main.a42c3e8e.chunk.js.map",
     "runtime-main.js": "/bevopunk-minter-prototype/static/js/runtime-main.4cf9eb46.js",
     "runtime-main.js.map": "/bevopunk-minter-prototype/static/js/runtime-main.4cf9eb46.js.map",
     "static/js/2.6b2ae6df.chunk.js": "/bevopunk-minter-prototype/static/js/2.6b2ae6df.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4cf9eb46.js",
     "static/js/2.6b2ae6df.chunk.js",
     "static/css/main.6200aa73.chunk.css",
-    "static/js/main.d70dd158.chunk.js"
+    "static/js/main.a42c3e8e.chunk.js"
   ]
 }
