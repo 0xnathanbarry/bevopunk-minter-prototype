@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bevopunk-minter-prototype/static/css/main.6200aa73.chunk.css",
+    "main.js": "/bevopunk-minter-prototype/static/js/main.d70dd158.chunk.js",
+    "main.js.map": "/bevopunk-minter-prototype/static/js/main.d70dd158.chunk.js.map",
+    "runtime-main.js": "/bevopunk-minter-prototype/static/js/runtime-main.4cf9eb46.js",
+    "runtime-main.js.map": "/bevopunk-minter-prototype/static/js/runtime-main.4cf9eb46.js.map",
+    "static/js/2.6b2ae6df.chunk.js": "/bevopunk-minter-prototype/static/js/2.6b2ae6df.chunk.js",
+    "static/js/2.6b2ae6df.chunk.js.map": "/bevopunk-minter-prototype/static/js/2.6b2ae6df.chunk.js.map",
+    "static/js/3.6839774c.chunk.js": "/bevopunk-minter-prototype/static/js/3.6839774c.chunk.js",
+    "static/js/3.6839774c.chunk.js.map": "/bevopunk-minter-prototype/static/js/3.6839774c.chunk.js.map",
+    "index.html": "/bevopunk-minter-prototype/index.html",
+    "static/css/main.6200aa73.chunk.css.map": "/bevopunk-minter-prototype/static/css/main.6200aa73.chunk.css.map",
+    "static/js/2.6b2ae6df.chunk.js.LICENSE.txt": "/bevopunk-minter-prototype/static/js/2.6b2ae6df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf9eb46.js",
+    "static/js/2.6b2ae6df.chunk.js",
+    "static/css/main.6200aa73.chunk.css",
+    "static/js/main.d70dd158.chunk.js"
+  ]
+}
